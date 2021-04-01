@@ -2,7 +2,7 @@ resources:
   - name: code
     type: git
     source:
-      uri: https://github.com/unknown-ds/DatDotNet.git
+      uri: https://github.com/pansystar/DatDotNet
       branch: master
 jobs:
   - name: build
