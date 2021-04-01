@@ -3,4 +3,4 @@ inputs:
   - name: code
 run:
   dir: code
-  path: msbuild
+  path: cmd
